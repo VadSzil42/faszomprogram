@@ -1,1 +1,1 @@
-print("alma")
+a = 1
